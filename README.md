@@ -1,10 +1,18 @@
 # Hibridación y Mutación de Medios: El Caso de TikTok y Blender desde la Perspectiva de Lev Manovich
 
-## Introducción
+## PEC3: Manovich Reloaded
+
+Recurso de aprendizaje de Cultura Digital
+
+Autora: Josephine Blondelle Ndi Ndzouli
+
+Fecha: 21/05/2023
+
+### Introducción
 
 En el ámbito de la cultura digital, la hibridación se ha convertido en un proceso creativo clave para la creación de nuevos medios y experiencias únicas. La combinación de técnicas y elementos ha dado lugar a la mutación de nuevas formas de expresión. **En el capítulo 3: Hibridación del libro "El software toma el mando" de Lev Manovich**, explora estos conceptos, destacando cómo la hibridación difiere de la multimedia y cómo ha evolucionado a lo largo del tiempo. Este fenómeno no es nuevo, pero ha sido impulsado gracias al creciente poder del software y la capacidad de las empresas para desarrollar tecnologías innovadoras.
 
-## TikTok: La Hibridación Social y Creativa
+### TikTok: La Hibridación Social y Creativa
 
 **TikTok**, la popular plataforma de redes sociales, es un ejemplo destacado de hibridación de medios, gracias a su interfaz  y herramientas de edición para crear videos únicos y atractivos. Desde la perspectiva de Lev Manovich, Tik Tok puede ser considerada como una manifestación de la teoría de los nuevos medios debido a su combinación de varios principios fundamentales. 
 

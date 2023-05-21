@@ -26,6 +26,7 @@ La automatización también juega un gran papel, ya que la plataforma utiliza al
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20II.png)
 
+![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blame/main/BLENDER%20VIDEO%20I-1.mov)
 
 ### Blender:  Viaje a la democratización
 

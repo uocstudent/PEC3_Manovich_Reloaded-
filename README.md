@@ -38,7 +38,9 @@ Finalmente, la transcodificación se evidencia en la capacidad de importar y exp
 
 ### Conclusiones
 
-Tanto TikTok como Blender han dejado una huella significativa en la actualidad y en la cultura digital. Tik Tok se ha convertido en una de las plataformas de redes sociales más populares del mundo, con millones de usuarios activos diariamente. Además, ha tenido un impacto importante en la industria de la música, ya que las canciones populares se difunden rápidamente a través de desafíos de baile y se convierten en éxitos virales. Una anécdota interesante relacionada con la app, es cómo la canción ***Old Town Road*** de Lil Nas X se volvió viral, impulsando la popularidad del artista y alcanzando el número uno en las listas de éxitos. Este caso demuestra cómo TikTok puede tener un impacto directo en la música y en la forma en que se promocionan las canciones. 
+Tanto TikTok como Blender han dejado una huella significativa en la actualidad y en la cultura digital. Tik Tok se ha convertido en una de las plataformas de redes sociales más populares del mundo, con millones de usuarios activos diariamente. Además, ha tenido un impacto importante en la industria de la música, ya que las canciones populares se difunden rápidamente a través de desafíos de baile y se convierten en éxitos virales. Una anécdota interesante relacionada con la app, es cómo la canción  ***Old Town Road*** de Lil Nas X se volvió viral, impulsando la popularidad del artista y alcanzando el número uno en las listas de éxitos. Este caso demuestra cómo TikTok puede tener un impacto directo en la música y en la forma en que se promocionan las canciones. 
+
+[Old Town Road*** de Lil Nas X](https://www.washingtonpost.com/lifestyle/style/from-tiktok-smash-to-billboard-record-breaker-how-old-town-road-gamed-the-system-and-won-the-summer/2019/08/21/7d355fc8-bf66-11e9-a5c6-1e74f7ec4a93_story.html)
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20III.png)
 

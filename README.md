@@ -20,11 +20,11 @@ En el ámbito de la cultura digital, la hibridación se ha convertido en un proc
 
 En el caso de TikTok, la plataforma utiliza algoritmos y tecnologías de compresión para codificar los videos en formato digital. Estos videos se almacenan en servidores y se distribuyen a través de la red. A su vez, también destaca la importancia de la **modularidad, la automatización y la variabilidad**. La plataforma permite a los usuarios crear y editar videos de manera modular, combinando diferentes elementos como música, efectos visuales y fragmentos de otros videos. Esta capacidad de combinación modular es una característica clave de los nuevos medios digitales. 
 
-![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20I.jpeg)
+![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20I.png)
 
 La automatización también juega un gran papel, ya que la plataforma utiliza algoritmos para recomendar y personalizar el contenido para cada usuario. Estos algoritmos analizan los datos de interacción y comportamiento de los usuarios para ofrecer una experiencia adaptada a sus intereses y preferencias. Por último, la variabilidad es otro aspecto destacado de Tik Tok. Los videos en la plataforma son cortos y se reproducen de forma continua en un bucle, lo que crea una experiencia audiovisual dinámica y cambiante, lo que ha dado lugar, a una cultura del "inmediatismo" en la que la inmediatez y la espontaneidad son muy valoradas. Además, la plataforma permite a los usuarios interactuar con el contenido a través de comentarios, likes y compartiendo los videos, lo que contribuye a la participación del público.
 
-![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20I.png)
+![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20II.png)
 
 
 ### Blender:  Viaje a la democratización

@@ -12,7 +12,7 @@ Fecha: 21/05/2023
 
 En el ámbito de la cultura digital, la hibridación se ha convertido en un proceso creativo clave para la creación de nuevos medios y experiencias únicas. La combinación de técnicas y elementos ha dado lugar a la mutación de nuevas formas de expresión. 
 
-- **En el capítulo 3: Hibridación del libro "El software toma el mando" de Lev Manovich, explora estos conceptos, destacando cómo la hibridación difiere de la multimedia y cómo ha evolucionado a lo largo del tiempo. 
+- **En el capítulo 3: Hibridación del libro "El software toma el mando" de Lev Manovich, explora estos conceptos, destacando cómo la hibridación difiere de la multimedia y cómo ha evolucionado a lo largo del tiempo.**
 
 Este fenómeno no es nuevo, pero ha sido impulsado gracias al creciente poder del software y la capacidad de las empresas para desarrollar tecnologías innovadoras.
 

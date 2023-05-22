@@ -50,7 +50,38 @@ Tanto TikTok como Blender han dejado una huella significativa en la actualidad y
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20III.png)
 
+### Referencias bibliográficas
 
+##### Libros:
+
+Manovich, L. (2001). The Language of New Media. MIT Press. Manovich, L. (2013). Software Takes Command. Bloomsbury Academic.
+
+##### Páginas web:
+
+-  "Blender on the History Channel at BlenderNation". Blendernation.com. Retrieved May 12, 2023.
+-  "Introduction — Blender Reference Manual" [www.blender.org](http://www.blender.org "www.blender.org"). Retrieved May 14, 2023.
+-  Jaroš, Milan; Strakoš, Petr; Říha, Lubomír. "Rending in Blender Cycles Using AVX-512 Vectorization" (PDF). Retrieved May 10, 2023.
+-   "Reference/Release Notes/2.92/Animation-Rigging - Blender Developer Wiki". wiki.blender.org Retrieved May 12, 2023.
+-  "rB60746363875a". [developer.blender.org. ](http://developer.blender.org.  "developer.blender.org. ")Retrieved 2021-11-04.  From the original on 27 January 2021. Retrieved May 15, 2023.
+-  "TikTok surpasses Google as most popular website of the year, new data suggests". NBC News. 22 December 2021. Retrieved May 10, 2023.
+-  "The App That Launched a Thousand Memes | Sixth Tone". Sixth Tone. 20 February 2018. Archived from the original on 23 February 2018. Retrieved May 15, 2023.
+- Recursos UOC: https://campus.uoc.edu/
+- Lev Manovich official website: http://manovich.net/
+
+
+##### Imágenes
+
+1. https://tn.com.ar/resizer/Gjpc0VYJJS-jGoWTPtEREEr_hPY=/767x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/DDBQDSNPCZA4PD7TYRBZ6KGTKE.JPG
+
+3. https://i.ytimg.com/vi/vrN9duEoA6g/maxresdefault.jpg
+
+5. https://download.blender.org/branding/community/blender_community_badge_white.png
+
+7. https://kickstartsidehustle.com/wp-content/uploads/2020/07/6d6b1beb-a025-4244-a8a2-f01f6f8d755e.png
+
+9. https://www.blender.org/about/logo/
+
+11. https://www.blender.org/wp-content/uploads/2023/03/hair_style_demo_poster.jpg
 Blender, por su parte, ha sido adoptado ampliamente en la industria del cine, la animación y los videojuegos. Ha demostrado ser una herramienta poderosa y accesible para la creación de contenido visual de alta calidad. Aunque a pesar de ello, sigo compitiendo con softwares como **After Effects, Houdini y Maya**. Aunque, su comunidad de usuarios y desarrolladores sigue creciendo y contribuyendo con nuevas funcionalidades, complementos y tutoriales. Es sorprendente cómo esta herramienta de software de código abierto ha desafiado el dominio de los programas de animación y modelado 3D comerciales.
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/maxresdefault.jpg)

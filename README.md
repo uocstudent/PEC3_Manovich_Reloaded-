@@ -47,16 +47,21 @@ Finalmente, la transcodificación se evidencia en la capacidad de importar y exp
 
 Tanto TikTok como Blender han dejado una huella significativa en la actualidad y en la cultura digital. Tik Tok se ha convertido en una de las plataformas de redes sociales más populares del mundo, con millones de usuarios activos diariamente. Además, ha tenido un impacto importante en la industria de la música, ya que las canciones populares se difunden rápidamente a través de desafíos de baile y se convierten en éxitos virales. Una anécdota interesante relacionada con la app, es cómo la canción  [***Old Town Road*** de Lil Nas X](https://www.washingtonpost.com/lifestyle/style/from-tiktok-smash-to-billboard-record-breaker-how-old-town-road-gamed-the-system-and-won-the-summer/2019/08/21/7d355fc8-bf66-11e9-a5c6-1e74f7ec4a93_story.html) se volvió viral, impulsando la popularidad del artista y alcanzando el número uno en las listas de éxitos. Este caso demuestra cómo TikTok puede tener un impacto directo en la música y en la forma en que se promocionan las canciones. 
 
+Blender, por su parte, ha sido adoptado ampliamente en la industria del cine, la animación y los videojuegos. Ha demostrado ser una herramienta poderosa y accesible para la creación de contenido visual de alta calidad. Aunque a pesar de ello, sigo compitiendo con softwares como **After Effects, Houdini y Maya**. Aunque, su comunidad de usuarios y desarrolladores sigue creciendo y contribuyendo con nuevas funcionalidades, complementos y tutoriales. Es sorprendente cómo esta herramienta de software de código abierto ha desafiado el dominio de los programas de animación y modelado 3D comerciales.
+
+![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/maxresdefault.jpg)
+
+Resulta fascinante ver cómo la hibridación de medios ha influido en la evolución de la cultura digital. Estos dos ejemplos concretos muestran el poder de cómo la combinación de diferentes elementos y técnicas puede dar lugar a experiencias únicas y creativas. En mi opinión, estas herramientas han democratizado la creación y el acceso a contenidos multimedia, permitiendo que cualquier persona con una conexión a Internet pueda expresarse y compartir su creatividad. Además, han abierto nuevas posibilidades de interacción y participación del público, fomentando una cultura de colaboración y retroalimentación. 
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20III.png)
 
-### Referencias bibliográficas
+## Referencias bibliográficas
 
-##### Libros:
+#### Libros:
 
 Manovich, L. (2001). The Language of New Media. MIT Press. Manovich, L. (2013). Software Takes Command. Bloomsbury Academic.
 
-##### Páginas web:
+#### Páginas web:
 
 -  "Blender on the History Channel at BlenderNation". Blendernation.com. Retrieved May 12, 2023.
 -  "Introduction — Blender Reference Manual" [www.blender.org](http://www.blender.org "www.blender.org"). Retrieved May 14, 2023.
@@ -69,21 +74,17 @@ Manovich, L. (2001). The Language of New Media. MIT Press. Manovich, L. (2013). 
 - Lev Manovich official website: http://manovich.net/
 
 
-##### Imágenes
+#### Imágenes
 
 1. https://tn.com.ar/resizer/Gjpc0VYJJS-jGoWTPtEREEr_hPY=/767x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/DDBQDSNPCZA4PD7TYRBZ6KGTKE.JPG
 
-3. https://i.ytimg.com/vi/vrN9duEoA6g/maxresdefault.jpg
+2. https://i.ytimg.com/vi/vrN9duEoA6g/maxresdefault.jpg
 
-5. https://download.blender.org/branding/community/blender_community_badge_white.png
+3. https://download.blender.org/branding/community/blender_community_badge_white.png
 
-7. https://kickstartsidehustle.com/wp-content/uploads/2020/07/6d6b1beb-a025-4244-a8a2-f01f6f8d755e.png
+4. https://kickstartsidehustle.com/wp-content/uploads/2020/07/6d6b1beb-a025-4244-a8a2-f01f6f8d755e.png
 
-9. https://www.blender.org/about/logo/
+5. https://www.blender.org/about/logo/
 
-11. https://www.blender.org/wp-content/uploads/2023/03/hair_style_demo_poster.jpg
-Blender, por su parte, ha sido adoptado ampliamente en la industria del cine, la animación y los videojuegos. Ha demostrado ser una herramienta poderosa y accesible para la creación de contenido visual de alta calidad. Aunque a pesar de ello, sigo compitiendo con softwares como **After Effects, Houdini y Maya**. Aunque, su comunidad de usuarios y desarrolladores sigue creciendo y contribuyendo con nuevas funcionalidades, complementos y tutoriales. Es sorprendente cómo esta herramienta de software de código abierto ha desafiado el dominio de los programas de animación y modelado 3D comerciales.
+6. https://www.blender.org/wp-content/uploads/2023/03/hair_style_demo_poster.jpg
 
-![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/maxresdefault.jpg)
-
-Resulta fascinante ver cómo la hibridación de medios ha influido en la evolución de la cultura digital. Estos dos ejemplos concretos muestran el poder de cómo la combinación de diferentes elementos y técnicas puede dar lugar a experiencias únicas y creativas. En mi opinión, estas herramientas han democratizado la creación y el acceso a contenidos multimedia, permitiendo que cualquier persona con una conexión a Internet pueda expresarse y compartir su creatividad. Además, han abierto nuevas posibilidades de interacción y participación del público, fomentando una cultura de colaboración y retroalimentación. 

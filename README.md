@@ -30,8 +30,6 @@ En este sentido, la plataforma también se relaciona con la metáfora de las "ga
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20I.png)
 
-S., [Fotografía] by J.J. Abrams and Doug Dorst, is published by Mulholland Books, 2013, PrintMag (https://www.printmag.com/featured/the-amazing-design-experience-of-jj-abrams-s/)
-
 La automatización también juega un gran papel, ya que estos algoritmos permiten analizan los datos de interacción y comportamiento de los usuarios para ofrecer una experiencia adaptada a sus intereses y preferencias. Por último, la variabilidad es otro aspecto destacado de Tik Tok. Los videos en la plataforma son cortos y se reproducen de forma continua en un bucle, lo que crea una experiencia audiovisual dinámica y cambiante, lo que ha dado lugar, a una cultura del **"inmediatismo"** en la que la inmediatez y la espontaneidad son muy valoradas. Además, la plataforma permite a los usuarios interactuar con el contenido a través de comentarios, likes y compartiendo los videos, lo que contribuye a la participación del público.
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20II.png)
@@ -40,12 +38,14 @@ La automatización también juega un gran papel, ya que estos algoritmos permite
 
 ## 2️⃣ Blender:  Viaje a la democratización
 
+###### 2.
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/c822fe16751a612ec57599ab58065f710c177159/blender_community_badge_white.png)
 
 
 Por otro lado, **Blender** es un software de diseño 3D de código abierto que ha revolucionado la creación de contenido visual. Este software permite a los usuarios combinar diferentes técnicas de medios, como el modelado 3D, la animación, el renderizado y la composición, para crear imágenes y animaciones de dos o tres dimensiones de alta calidad. En el artículo de [**Juan Muñoz Justicia**](http://juan.psicologiasocial.eu/conocimiento-y-tecnologia), se discute cómo el conocimiento abierto promueve el acceso universal a la investigación, la educación y la participación cultural. Esta idea está estrechamente relacionada con el concepto de software libre, otorgando a los usuarios la libertad de ejecutar, estudiar, o modificar la herramienta. En el caso de Blender, cuenta con una amplia comunidad y desarrolladores que contribuyen con ***plugins***, ***scripts*** o **tutoriales** y enriquecen el proceso de hibridación. Asimismo, la modularidad de Blender se evidencia en su interfaz y flujo de trabajo, donde los usuarios pueden conectar diferentes nodos y elementos visuales para crear composiciones complejas. En relación a la automatización, esta se presenta en las capacidades de animación y simulación que ofrece el software, permitiendo a los usuarios crear movimientos y efectos complejos de forma automática. La variabilidad se manifiesta de manera significativa en Blender, ya que ofrece a los usuarios una amplia gama de posibilidades para lograr diferentes estilos y estéticas en sus proyectos, debido a la versatilidad y numerosas herramientas que ofrece de modelado, texturizado e iluminación. En [este enlace a Youtube](http://https://www.youtube.com/watch?v=QRqY_20ti9A "este enlace a Youtube") podemos observar un reel en el que se muestra el potencial de la herramienta.
 
+###### 3.
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/hair_style_demo_poster.jpg)
 
@@ -58,11 +58,15 @@ Finalmente, la transcodificación se evidencia en la capacidad de importar y exp
 
 Tanto Tik Tok como Blender han dejado una huella significativa en la actualidad y en la cultura digital. Tik Tok se ha convertido en una de las plataformas de redes sociales más populares del mundo, con millones de usuarios activos diariamente. Además, ha tenido un impacto importante en la industria de la música, ya que las canciones populares se difunden rápidamente a través de desafíos de baile y se convierten en éxitos virales. Una anécdota fascinante relacionada con la app, es la historia de cómo la canción [**Old Town Road** de Lil Nas X](https://www.youtube.com/watch?v=w2Ov5jzm3j8), se volvió viral, impulsando la popularidad del artista y llevándola al número uno en las listas de éxitos. En el siguiente artículo del [**Washington Post** escrito por la autora Bethonie Butler](https://www.washingtonpost.com/lifestyle/style/from-tiktok-smash-to-billboard-record-breaker-how-old-town-road-gamed-the-system-and-won-the-summer/2019/08/21/7d355fc8-bf66-11e9-a5c6-1e74f7ec4a93_story.html), explora cómo el artista logró alcanzar tal nivel de fama en tan solo una semana. 
 
+###### 4.
+
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20III.png)
 
 Otro caso relevante, es cómo **El Museo Nacional del Prado**,  también ha incursionado en TikTok para llegar a nuevas audiencias y promover su colección de arte. *— La noticia la podemos ver [aquí](http://https://www.museodelprado.es/actualidad/noticia/el-museo-nacional-del-prado-lidera-tiktok-en/4ab3949e-746f-db1d-2bc8-5a2ced140d24 "aquí")*. A través de su cuenta oficial en Tik Tok, el museo comparte vídeos creativos e informativos que muestran obras maestras de su colección, detrás de escenas de la preparación de exposiciones y desafíos relacionados con el arte. El museo ha utilizado TikTok como una forma de hacer que el arte sea accesible y atractivo para un público más joven y digitalmente activo. Los vídeos breves y entretenidos han ayudado a generar interés y curiosidad en la audiencia, al tiempo que promueven el conocimiento y la apreciación del arte, permitiendo conectarse con nuevas generaciones de amantes del arte, que quizás no hubieran tenido la oportunidad de visitar el museo físicamente. 
 
 Blender, por su parte, ha sido adoptado ampliamente en la industria del cine, la animación y los videojuegos. Ha demostrado ser una herramienta poderosa y accesible para la creación de contenido visual de alta calidad. Aunque a pesar de ello, sigue compitiendo con softwares como **After Effects, Houdini y Maya**.
+
+###### 5.
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/maxresdefault.jpg)
 

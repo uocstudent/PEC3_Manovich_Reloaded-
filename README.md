@@ -36,7 +36,7 @@ La automatización también juega un gran papel, ya que la plataforma utiliza al
 
 ------------
 
-### 2️⃣ Blender:  Viaje a la democratización
+## 2️⃣ Blender:  Viaje a la democratización
 
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/c822fe16751a612ec57599ab58065f710c177159/blender_community_badge_white.png)
@@ -52,7 +52,7 @@ Finalmente, la transcodificación se evidencia en la capacidad de importar y exp
 
 ------------
 
-### 3️⃣ Conclusiones
+## 3️⃣ Conclusiones
 
 Tanto TikTok como Blender han dejado una huella significativa en la actualidad y en la cultura digital. Tik Tok se ha convertido en una de las plataformas de redes sociales más populares del mundo, con millones de usuarios activos diariamente. Además, ha tenido un impacto importante en la industria de la música, ya que las canciones populares se difunden rápidamente a través de desafíos de baile y se convierten en éxitos virales. Una anécdota interesante relacionada con la app, es cómo la canción  [**Old Town Road** de Lil Nas X](https://www.washingtonpost.com/lifestyle/style/from-tiktok-smash-to-billboard-record-breaker-how-old-town-road-gamed-the-system-and-won-the-summer/2019/08/21/7d355fc8-bf66-11e9-a5c6-1e74f7ec4a93_story.html) se volvió viral, impulsando la popularidad del artista y alcanzando el número uno en las listas de éxitos. Este caso demuestra cómo TikTok puede tener un impacto directo en la música y en la forma en que se promocionan las canciones.
 
@@ -68,11 +68,11 @@ Resulta fascinante ver cómo la hibridación de medios ha influido en la evoluci
 
 ## 🔵 Referencias bibliográficas
 
-#### 📚 Libros:
+### 📚 Libros:
 
 - Manovich, L. (2001). The Language of New Media. MIT Press. Manovich, L. (2013). Software Takes Command. Bloomsbury Academic.
 
-#### 👩‍💻 Páginas web:
+### 👩‍💻 Páginas web:
 
 -  "Blender on the History Channel at BlenderNation". Blendernation.com. Retrieved May 12, 2023.
 -  "Introduction — Blender Reference Manual" [www.blender.org](http://www.blender.org "www.blender.org"). Retrieved May 14, 2023.
@@ -85,7 +85,7 @@ Resulta fascinante ver cómo la hibridación de medios ha influido en la evoluci
 - Lev Manovich official website: http://manovich.net/
 
 
-#### 📸 Imágenes
+### 📸 Imágenes
 
 1. https://tn.com.ar/resizer/Gjpc0VYJJS-jGoWTPtEREEr_hPY=/767x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/DDBQDSNPCZA4PD7TYRBZ6KGTKE.JPG
 

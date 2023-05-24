@@ -1,14 +1,14 @@
 # Hibridación y Mutación de Medios: El Caso de TikTok 📲 y Blender 👩‍💻 desde la Perspectiva de Lev Manovich
 
-## PEC3: Manovich Reloaded
+## PEC3:  Visionando el futuro con las gafas 😎 de Manovich: redescubriendo la hibridación.
 
-Recurso de aprendizaje de Cultura Digital
+Recurso de aprendizaje de Cultura Digital 
 
 Autora: Josephine Blondelle Ndi Ndzouli
 
 Fecha: 21/05/2023
 
-### Introducción
+### 🔵 Introducción
 
 En el ámbito de la cultura digital, la hibridación se ha convertido en un proceso creativo clave para la creación de nuevos medios y experiencias únicas. La combinación de técnicas y elementos ha dado lugar a la mutación de nuevas formas de expresión. **En el capítulo 3: Hibridación del libro ["El software toma el mando"](https://campus.uoc.edu/tren/trenacc?s=cba95bb6365b96a8e13a090eaa98045b6baa67a58bcda160de64383fc5ad3ffd549fb9124e54948cd50145f43697bd440fd6b601a6bbd53086eca0e17bdb76c5&modul=DIMAX.DINAROJ/dimaxweb.Pagina&pantalla=HISTORICS&node=73486&entidad_gestora=DEF&entorn_gestio=PV20222&idioma=CAS&lang=&pantalla_his=XML_ARBRE_RECURSOS&cami=&p_entrada=PV) de Lev Manovich, explora estos conceptos, destacando cómo la hibridación difiere de la multimedia y cómo ha evolucionado a lo largo del tiempo.** Este fenómeno no es nuevo, pero ha sido impulsado gracias al creciente poder del software y la capacidad de las empresas para desarrollar tecnologías innovadoras.
 

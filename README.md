@@ -22,6 +22,7 @@ Centrándonos en profundiad en la app de **TikTok**, la popular plataforma de re
 
 En el caso de TikTok, la plataforma utiliza algoritmos y tecnologías de compresión para codificar los videos en formato digital. Estos videos se almacenan en servidores y se distribuyen a través de la red. A su vez, también destaca la importancia de la **modularidad, la automatización y la variabilidad**. La plataforma permite a los usuarios crear y editar videos de manera modular, combinando diferentes elementos como música, efectos visuales y fragmentos de otros videos. Esta capacidad de combinación modular es una característica clave de los nuevos medios digitales. 
 
+------------
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20I.png)
 

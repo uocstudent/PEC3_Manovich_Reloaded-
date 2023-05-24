@@ -52,11 +52,13 @@ Tanto TikTok como Blender han dejado una huella significativa en la actualidad y
 
 Blender, por su parte, ha sido adoptado ampliamente en la industria del cine, la animación y los videojuegos. Ha demostrado ser una herramienta poderosa y accesible para la creación de contenido visual de alta calidad. Aunque a pesar de ello, sigo compitiendo con softwares como **After Effects, Houdini y Maya**. Aunque, su comunidad de usuarios y desarrolladores sigue creciendo y contribuyendo con nuevas funcionalidades, complementos y tutoriales. Es sorprendente cómo esta herramienta de software de código abierto ha desafiado el dominio de los programas de animación y modelado 3D comerciales.
 
-![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/maxresdefault.jpg)
+![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20III.png)
+
 
 Resulta fascinante ver cómo la hibridación de medios ha influido en la evolución de la cultura digital. Estos dos ejemplos concretos muestran el poder de cómo la combinación de diferentes elementos y técnicas puede dar lugar a experiencias únicas y creativas. En mi opinión, estas herramientas han democratizado la creación y el acceso a contenidos multimedia, permitiendo que cualquier persona con una conexión a Internet pueda expresarse y compartir su creatividad. Además, han abierto nuevas posibilidades de interacción y participación del público, fomentando una cultura de colaboración y retroalimentación. 
 
-![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20III.png)
+![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/maxresdefault.jpg)
+
 
 ## 🔵 Referencias bibliográficas
 

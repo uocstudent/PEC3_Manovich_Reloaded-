@@ -1,4 +1,4 @@
-# La hibridación: El Caso de TikTok 📲 y Blender 💻 desde la perspectiva de Lev Manovich
+# La hibridación: El caso de TikTok 📲 y Blender 💻 desde la perspectiva de Lev Manovich
 
 ## PEC3:  Visionando el futuro con las gafas 😎 de Manovich: redescubriendo la hibridación.
 

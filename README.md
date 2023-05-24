@@ -16,7 +16,7 @@ Fecha: 21/05/2023
 
 ## 🔵 Introducción
 
-En el ámbito de la cultura digital, la hibridación se ha convertido en un proceso creativo clave para la creación de nuevos medios y experiencias únicas. **En el capítulo 3 - Hibridación : [El software toma el mando](https://ebookcentral.proquest.com/lib/bibliouocsp-ebooks/reader.action?docID=4735140) de Lev Manovich, explora estos conceptos, destacando cómo la hibridación difiere de la multimedia y cómo ha evolucionado a lo largo del tiempo.** Este fenómeno no es nuevo, pero ha sido impulsado gracias al creciente poder del software y la capacidad de las empresas para desarrollar tecnologías innovadoras, en este contxto, la combinación de técnicas y elementos ha dado lugar a la mutación de nuevas formas de expresión.
+En el ámbito de la cultura digital, la hibridación se ha convertido en un proceso creativo clave para la creación de nuevos medios y experiencias únicas. **En el capítulo 3 — Hibridación: [El software toma el mando](https://ebookcentral.proquest.com/lib/bibliouocsp-ebooks/reader.action?docID=4735140) de Lev Manovich, explora estos conceptos, destacando cómo la hibridación difiere de la multimedia y cómo ha evolucionado a lo largo del tiempo.** Este fenómeno no es nuevo, pero ha sido impulsado gracias al creciente poder del software y la capacidad de las empresas para desarrollar tecnologías innovadoras, en este contxto, la combinación de técnicas y elementos ha dado lugar a la mutación de nuevas formas de expresión.
 
 > "Aunque ciertas aplicaciones multimedia clásicas de los años noventa podrían considerarse híbridos de medios, la mayoría no lo son. Por el contrario, si bien los híbridos de medios suelen presentar contenido de medios diferentes, se trata tan solo de uno de sus aspectos esenciales. Así pues, ¿cuál es la diferencia entre los dos? En documentos y aplicaciones interactivas multimedia, los contenidos de cada medio aparecen uno junto otro. En una página web, las imágenes y el vídeo aparecen al lado del texto; un post de blog nos muestra el texto seguido de las imágenes y luego otra vez texto; un mundo en 3D puede contener un objeto de pantalla plana donde se exhiba material en vídeo. Dicho de otra forma, cada elemento de un mensaje multimedia se abre en su propio visor (en los años dos mil los MMS de los teléfonos funcionaban así). Por contra, en los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno." (Lev Manovich, 2013, p. 157).
 
@@ -89,8 +89,8 @@ Resulta fascinante ver cómo la hibridación de medios ha influido en la evoluci
 -  "rB60746363875a". [developer.blender.org. ](http://developer.blender.org.  "developer.blender.org. ")Retrieved 2021-11-04.  From the original on 27 January 2021. Retrieved May 15, 2023.
 -  "TikTok surpasses Google as the most popular website of the year, new data suggests". NBC News. 22 December 2021. Retrieved May 10, 2023.
 -  "The App That Launched a Thousand Memes | Sixth Tone". Sixth Tone. 20 February 2018. Archived from the original on 23 February 2018. Retrieved May 15, 2023.
-- Recursos UOC: https://campus.uoc.edu/
-- Lev Manovich official website: http://manovich.net/
+-  Recursos UOC: https://campus.uoc.edu/
+-  Lev Manovich official website: http://manovich.net/
 
 
 ### 📸 Imágenes

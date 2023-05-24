@@ -1,4 +1,4 @@
-# Hibridación y Mutación de Medios: El Caso de TikTok 📲 y Blender 👩‍💻 desde la Perspectiva de Lev Manovich
+# Hibridación y Mutación de Medios: El Caso de TikTok 📲 y Blender 💻 desde la Perspectiva de Lev Manovich
 
 ## PEC3:  Visionando el futuro con las gafas 😎 de Manovich: redescubriendo la hibridación.
 
@@ -12,7 +12,7 @@ Fecha: 21/05/2023
 
 En el ámbito de la cultura digital, la hibridación se ha convertido en un proceso creativo clave para la creación de nuevos medios y experiencias únicas. La combinación de técnicas y elementos ha dado lugar a la mutación de nuevas formas de expresión. **En el capítulo 3: Hibridación del libro ["El software toma el mando"](https://campus.uoc.edu/tren/trenacc?s=cba95bb6365b96a8e13a090eaa98045b6baa67a58bcda160de64383fc5ad3ffd549fb9124e54948cd50145f43697bd440fd6b601a6bbd53086eca0e17bdb76c5&modul=DIMAX.DINAROJ/dimaxweb.Pagina&pantalla=HISTORICS&node=73486&entidad_gestora=DEF&entorn_gestio=PV20222&idioma=CAS&lang=&pantalla_his=XML_ARBRE_RECURSOS&cami=&p_entrada=PV) de Lev Manovich, explora estos conceptos, destacando cómo la hibridación difiere de la multimedia y cómo ha evolucionado a lo largo del tiempo.** Este fenómeno no es nuevo, pero ha sido impulsado gracias al creciente poder del software y la capacidad de las empresas para desarrollar tecnologías innovadoras.
 
-### TikTok: La Hibridación Social y Creativa
+### 1️⃣ TikTok: La Hibridación Social y Creativa
 
 **TikTok**, la popular plataforma de redes sociales, es un ejemplo destacado de hibridación de medios, gracias a su interfaz  y herramientas de edición para crear videos únicos y atractivos. Desde la perspectiva de Lev Manovich, Tik Tok puede ser considerada como una manifestación de la teoría de los nuevos medios debido a su combinación de varios principios fundamentales. 
 
@@ -29,7 +29,7 @@ La automatización también juega un gran papel, ya que la plataforma utiliza al
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20II.png)
 
 
-### Blender:  Viaje a la democratización
+### 2️⃣ Blender:  Viaje a la democratización
 
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/c822fe16751a612ec57599ab58065f710c177159/blender_community_badge_white.png)
@@ -43,7 +43,7 @@ Por otro lado, **Blender** es un software de diseño 3D de código abierto que h
 
 Finalmente, la transcodificación se evidencia en la capacidad de importar y exportar diferentes formatos de archivo y adaptarse a diferentes flujos de trabajo. Por ejemplo, se pueden importar imágenes y texturas desde programas de edición de imágenes, como Adobe Photoshop, y luego combinarlas con modelos 3D en Blender. Del mismo modo, las animaciones creadas en Blender pueden exportarse a formatos utilizados en la industria del cine y los videojuegos, lo que permite su integración en proyectos más amplios. Desde la perspectiva de Lev Manovich, Blender representa una evolución de los metamedios computacionales. A través de la hibridación de la animación 3D y el diseño gráfico, ha logrado expandir las posibilidades creativas en la producción de contenidos visuales.
 
-### Conclusiones
+### 3️⃣ Conclusiones
 
 Tanto TikTok como Blender han dejado una huella significativa en la actualidad y en la cultura digital. Tik Tok se ha convertido en una de las plataformas de redes sociales más populares del mundo, con millones de usuarios activos diariamente. Además, ha tenido un impacto importante en la industria de la música, ya que las canciones populares se difunden rápidamente a través de desafíos de baile y se convierten en éxitos virales. Una anécdota interesante relacionada con la app, es cómo la canción  [***Old Town Road*** de Lil Nas X](https://www.washingtonpost.com/lifestyle/style/from-tiktok-smash-to-billboard-record-breaker-how-old-town-road-gamed-the-system-and-won-the-summer/2019/08/21/7d355fc8-bf66-11e9-a5c6-1e74f7ec4a93_story.html) se volvió viral, impulsando la popularidad del artista y alcanzando el número uno en las listas de éxitos. Este caso demuestra cómo TikTok puede tener un impacto directo en la música y en la forma en que se promocionan las canciones. 
 
@@ -55,13 +55,13 @@ Resulta fascinante ver cómo la hibridación de medios ha influido en la evoluci
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20III.png)
 
-## Referencias bibliográficas
+## 🔵 Referencias bibliográficas
 
-#### Libros:
+#### 📚 Libros:
 
 Manovich, L. (2001). The Language of New Media. MIT Press. Manovich, L. (2013). Software Takes Command. Bloomsbury Academic.
 
-#### Páginas web:
+#### 👩‍💻 Páginas web:
 
 -  "Blender on the History Channel at BlenderNation". Blendernation.com. Retrieved May 12, 2023.
 -  "Introduction — Blender Reference Manual" [www.blender.org](http://www.blender.org "www.blender.org"). Retrieved May 14, 2023.
@@ -74,7 +74,7 @@ Manovich, L. (2001). The Language of New Media. MIT Press. Manovich, L. (2013). 
 - Lev Manovich official website: http://manovich.net/
 
 
-#### Imágenes
+#### 📸 Imágenes
 
 1. https://tn.com.ar/resizer/Gjpc0VYJJS-jGoWTPtEREEr_hPY=/767x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/DDBQDSNPCZA4PD7TYRBZ6KGTKE.JPG
 

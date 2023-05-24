@@ -24,7 +24,6 @@ Centrándonos en profundiad en la app de **TikTok**, la popular plataforma de re
 
 En el caso de TikTok, la plataforma utiliza algoritmos y tecnologías de compresión para codificar los videos en formato digital. Estos videos se almacenan en servidores y se distribuyen a través de la red. A su vez, también destaca la importancia de la **modularidad, la automatización y la variabilidad**. La plataforma permite a los usuarios crear y editar videos de manera modular, combinando diferentes elementos como música, efectos visuales y fragmentos de otros videos. Esta capacidad de combinación modular es una característica clave de los nuevos medios digitales. 
 
-------
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20I.png)
 
@@ -33,6 +32,7 @@ La automatización también juega un gran papel, ya que la plataforma utiliza al
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20II.png)
 
+------------
 
 ### 2️⃣ Blender:  Viaje a la democratización
 
@@ -47,6 +47,8 @@ Por otro lado, **Blender** es un software de diseño 3D de código abierto que h
 
 
 Finalmente, la transcodificación se evidencia en la capacidad de importar y exportar diferentes formatos de archivo y adaptarse a diferentes flujos de trabajo. Por ejemplo, se pueden importar imágenes y texturas desde programas de edición de imágenes, como Adobe Photoshop, y luego combinarlas con modelos 3D en Blender. Del mismo modo, las animaciones creadas en Blender pueden exportarse a formatos utilizados en la industria del cine y los videojuegos, lo que permite su integración en proyectos más amplios. Desde la perspectiva de Lev Manovich, Blender representa una evolución de los metamedios computacionales. A través de la hibridación de la animación 3D y el diseño gráfico, ha logrado expandir las posibilidades creativas en la producción de contenidos visuales.
+
+------------
 
 ### 3️⃣ Conclusiones
 

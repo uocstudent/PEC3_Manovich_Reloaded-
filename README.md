@@ -26,7 +26,7 @@ Grosso modo, según la citación anterior podemos considerar que la hibridación
 
 ## 1️⃣ Tik Tok: La Hibridación social y creativa
 
-**TikTok**, sería otro claro ejemplo destacado de hibridación de medios, gracias a su interfaz  y herramientas de edición para crear videos únicos y atractivos. Desde la perspectiva de Manovich, la aplicación puede ser considerada como una manifestación de la teoría de los nuevos medios debido a su combinación de varios principios fundamentales. 
+Centrandonos en **TikTok**, es otro claro ejemplo destacado de hibridación, gracias a su interfaz y herramientas de edición para crear videos únicos y atractivos. Desde la perspectiva de Manovich, la aplicación puede ser considerada como una manifestación de la teoría de los nuevos medios debido a su combinación de varios principios fundamentales. 
 
 > En su libro — [**El Lenguaje de los Nuevos Medios**](https://uea1arteycomunicacion.files.wordpress.com/2013/09/manovich-el-legunaje-de-los-nuevos-medios.pdf), el autor plantea que los medios se basan en **la representación numérica, la modularidad, la automatización, la variabilidad y transcodificación**, además sostiene que los medios emergentes, como el cine, la realidad virtual o las interfaces digitales, brindan una forma innovadora de percibir y experimentar el mundo. De manera análoga el **uso de gafas** para mejorar nuestra visión, estos nuevos medios proporcionan un conjunto de lentes conceptuales que moldean la percepción y comprensión del entorno digital. Estas "gafas de Manovich" influyen en nuestra interacción con la información e interpretación de los datos. (Lev Manovich, El Lenguaje de los Nuevos Medios 2001, p. 72).
 

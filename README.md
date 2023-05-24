@@ -1,4 +1,4 @@
-# Hibridación y Mutación de Medios: El Caso de TikTok y Blender desde la Perspectiva de Lev Manovich
+# Hibridación y Mutación de Medios: El Caso de TikTok 📲 y Blender 👩‍💻 desde la Perspectiva de Lev Manovich
 
 ## PEC3: Manovich Reloaded
 

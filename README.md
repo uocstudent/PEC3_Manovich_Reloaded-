@@ -14,6 +14,8 @@ En el ámbito de la cultura digital, la hibridación se ha convertido en un proc
 
 Según el autor, la hibridación implica la fusión de diferentes formas de medios en una única experiencia. Por ejemplo, imagina una **instalación interactiva** en un museo de arte contemporáneo. Esta instalación combina elementos de **video, sonido, realidad virtual y escultura física**. Los visitantes pueden usar **gafas de realidad virtual** para explorar un mundo digitalmente creado mientras escuchan una **composición musical** específicamente creada para la experiencia. Además, hay **elementos escultóricos físicos** colocados en el espacio que los visitantes pueden tocar y manipular. Esta instalación fusiona varios medios en una experiencia única y cohesiva, lo que la convierte en un hibridación de medios. Por el contrario, si pensamos en un **periódico impreso tradicional**, no se consideraria una hibridación, aunque los periódicos pueden incluir imágenes y anuncios publicitarios, principalmente consisten en texto impreso en papel, no hay una fusión directa de diferentes medios, como video, sonido o interactividad digital (RV, RM, RA).
 
+------------
+
 ### 1️⃣ TikTok: La Hibridación Social y Creativa
 
 Centrándonos en profundiad en la app de **TikTok**, la popular plataforma de redes sociales, es otro claro ejemplo destacado de hibridación de medios, gracias a su interfaz  y herramientas de edición para crear videos únicos y atractivos. Desde la perspectiva de Lev Manovich, Tik Tok puede ser considerada como una manifestación de la teoría de los nuevos medios debido a su combinación de varios principios fundamentales. 

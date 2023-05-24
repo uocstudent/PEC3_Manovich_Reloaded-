@@ -32,16 +32,13 @@ En este sentido, la plataforma también se relaciona con la metáfora de las "ga
 
 La automatización también juega un gran papel, ya que estos algoritmos permiten analizan los datos de interacción y comportamiento de los usuarios para ofrecer una experiencia adaptada a sus intereses y preferencias. Por último, la variabilidad es otro aspecto destacado de Tik Tok. Los videos en la plataforma son cortos y se reproducen de forma continua en un bucle, lo que crea una experiencia audiovisual dinámica y cambiante, lo que ha dado lugar, a una cultura del **"inmediatismo"** en la que la inmediatez y la espontaneidad son muy valoradas. Además, la plataforma permite a los usuarios interactuar con el contenido a través de comentarios, likes y compartiendo los videos, lo que contribuye a la participación del público.
 
+###### 2.
+
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20II.png)
 
 ------------
 
 ## 2️⃣ Blender:  Viaje a la democratización
-
-###### 2.
-
-![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/c822fe16751a612ec57599ab58065f710c177159/blender_community_badge_white.png)
-
 
 Por otro lado, **Blender** es un software de diseño 3D de código abierto que ha revolucionado la creación de contenido visual. Este software permite a los usuarios combinar diferentes técnicas de medios, como el modelado 3D, la animación, el renderizado y la composición, para crear imágenes y animaciones de dos o tres dimensiones de alta calidad. En el artículo de [**Juan Muñoz Justicia**](http://juan.psicologiasocial.eu/conocimiento-y-tecnologia), se discute cómo el conocimiento abierto promueve el acceso universal a la investigación, la educación y la participación cultural. Esta idea está estrechamente relacionada con el concepto de software libre, otorgando a los usuarios la libertad de ejecutar, estudiar, o modificar la herramienta. En el caso de Blender, cuenta con una amplia comunidad y desarrolladores que contribuyen con ***plugins***, ***scripts*** o **tutoriales** y enriquecen el proceso de hibridación. Asimismo, la modularidad de Blender se evidencia en su interfaz y flujo de trabajo, donde los usuarios pueden conectar diferentes nodos y elementos visuales para crear composiciones complejas. En relación a la automatización, esta se presenta en las capacidades de animación y simulación que ofrece el software, permitiendo a los usuarios crear movimientos y efectos complejos de forma automática. La variabilidad se manifiesta de manera significativa en Blender, ya que ofrece a los usuarios una amplia gama de posibilidades para lograr diferentes estilos y estéticas en sus proyectos, debido a la versatilidad y numerosas herramientas que ofrece de modelado, texturizado e iluminación. En [este enlace a Youtube](http://https://www.youtube.com/watch?v=QRqY_20ti9A "este enlace a Youtube") podemos observar un reel en el que se muestra el potencial de la herramienta.
 

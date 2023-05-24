@@ -14,7 +14,7 @@ En el ámbito de la cultura digital, la hibridación se ha convertido en un proc
 
 Según el autor, la hibridación implica la fusión de diferentes formas de medios en una única experiencia. Por ejemplo, imagina una **instalación interactiva** en un museo de arte contemporáneo. Esta instalación combina elementos de **video, sonido, realidad virtual y escultura física**. Los visitantes pueden usar **gafas de realidad virtual** para explorar un mundo digitalmente creado mientras escuchan una **composición musical** específicamente creada para la experiencia. Además, hay **elementos escultóricos físicos** colocados en el espacio que los visitantes pueden tocar y manipular. Esta instalación fusiona varios medios en una experiencia única y cohesiva, lo que la convierte en un hibridación de medios. Por el contrario, si pensamos en un **periódico impreso tradicional**, no se consideraria una hibridación, aunque los periódicos pueden incluir imágenes y anuncios publicitarios, principalmente consisten en texto impreso en papel, no hay una fusión directa de diferentes medios, como video, sonido o interactividad digital (RV, RM, RA).
 
-### 1️⃣ TikTok: La Hibridación Social y Creativa
+#### 1️⃣ TikTok: La Hibridación Social y Creativa
 
 Centrándonos en profundiad en la app de **TikTok**, la popular plataforma de redes sociales, es otro claro ejemplo destacado de hibridación de medios, gracias a su interfaz  y herramientas de edición para crear videos únicos y atractivos. Desde la perspectiva de Lev Manovich, Tik Tok puede ser considerada como una manifestación de la teoría de los nuevos medios debido a su combinación de varios principios fundamentales. 
 
@@ -32,7 +32,7 @@ La automatización también juega un gran papel, ya que la plataforma utiliza al
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20II.png)
 
 
-### 2️⃣ Blender:  Viaje a la democratización
+#### 2️⃣ Blender:  Viaje a la democratización
 
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/c822fe16751a612ec57599ab58065f710c177159/blender_community_badge_white.png)
@@ -46,7 +46,7 @@ Por otro lado, **Blender** es un software de diseño 3D de código abierto que h
 
 Finalmente, la transcodificación se evidencia en la capacidad de importar y exportar diferentes formatos de archivo y adaptarse a diferentes flujos de trabajo. Por ejemplo, se pueden importar imágenes y texturas desde programas de edición de imágenes, como Adobe Photoshop, y luego combinarlas con modelos 3D en Blender. Del mismo modo, las animaciones creadas en Blender pueden exportarse a formatos utilizados en la industria del cine y los videojuegos, lo que permite su integración en proyectos más amplios. Desde la perspectiva de Lev Manovich, Blender representa una evolución de los metamedios computacionales. A través de la hibridación de la animación 3D y el diseño gráfico, ha logrado expandir las posibilidades creativas en la producción de contenidos visuales.
 
-### 3️⃣ Conclusiones
+#### 3️⃣ Conclusiones
 
 Tanto TikTok como Blender han dejado una huella significativa en la actualidad y en la cultura digital. Tik Tok se ha convertido en una de las plataformas de redes sociales más populares del mundo, con millones de usuarios activos diariamente. Además, ha tenido un impacto importante en la industria de la música, ya que las canciones populares se difunden rápidamente a través de desafíos de baile y se convierten en éxitos virales. Una anécdota interesante relacionada con la app, es cómo la canción  [**Old Town Road** de Lil Nas X](https://www.washingtonpost.com/lifestyle/style/from-tiktok-smash-to-billboard-record-breaker-how-old-town-road-gamed-the-system-and-won-the-summer/2019/08/21/7d355fc8-bf66-11e9-a5c6-1e74f7ec4a93_story.html) se volvió viral, impulsando la popularidad del artista y alcanzando el número uno en las listas de éxitos. Este caso demuestra cómo TikTok puede tener un impacto directo en la música y en la forma en que se promocionan las canciones. 
 

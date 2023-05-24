@@ -22,9 +22,9 @@ Grosso modo, según la citación anterior podemos considerar que la hibridación
 
 Centrándonos en profundiad en la app de **TikTok**, la popular plataforma de redes sociales, es otro claro ejemplo destacado de hibridación de medios, gracias a su interfaz  y herramientas de edición para crear videos únicos y atractivos. Desde la perspectiva de Lev Manovich, Tik Tok puede ser considerada como una manifestación de la teoría de los nuevos medios debido a su combinación de varios principios fundamentales. 
 
-> **Manovich sostiene que los medios digitales se basan en la representación numérica, lo que implica que todos los objetos y fenómenos culturales pueden ser codificados y manipulados como datos numéricos.** 
+> Manovich sostiene que los medios digitales se basan en **la representación numérica**,también destaca la importancia de la **modularidad, la automatización, la variabilidad y la transcodificación**.
 
-En el caso de TikTok, la plataforma utiliza algoritmos y tecnologías de compresión para codificar los videos en formato digital. Estos videos se almacenan en servidores y se distribuyen a través de la red. A su vez, también destaca la importancia de la **modularidad, la automatización y la variabilidad**. La plataforma permite a los usuarios crear y editar videos de manera modular, combinando diferentes elementos como música, efectos visuales y fragmentos de otros videos. Esta capacidad de combinación modular es una característica clave de los nuevos medios digitales. 
+En el caso de TikTok, la plataforma utiliza algoritmos y tecnologías de compresión para codificar los videos en formato digital. Estos videos se almacenan en servidores y se distribuyen a través de la red. A su vez, también permite a los usuarios crear y editar videos de manera modular, combinando diferentes elementos como música, efectos visuales y fragmentos de otros videos. Esta capacidad de combinación modular es una característica clave de los nuevos medios digitales. 
 
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20I.png)

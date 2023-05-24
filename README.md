@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # La hibridación: El caso de Tik Tok 📲 y Blender 💻 desde la perspectiva de Lev Manovich
 
 ## PEC3:  Visionando el futuro con las gafas 😎 de Manovich: redescubriendo la hibridación.
@@ -32,8 +26,11 @@ Centrandonos en **TikTok**, es otro claro ejemplo destacado de hibridación, gra
 
 En este sentido, la plataforma también se relaciona con la metáfora de las "gafas" de Manovich al ofrecer a los usuarios una forma específica de ver y experimentar el contenido visual. Utiliza algoritmos para recomendar y personalizar el contenido y emplea tecnologías de compresión para codificar los videos en formato digital, almacenándolos en servidores y distribuyéndolos a través de la red. Además, permite a los usuarios crear y editar contenido de manera modular, combinando música y efectos visuales.
 
+###### 1.
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20I.png)
+
+S., [Fotografía] by J.J. Abrams and Doug Dorst, is published by Mulholland Books, 2013, PrintMag (https://www.printmag.com/featured/the-amazing-design-experience-of-jj-abrams-s/)
 
 La automatización también juega un gran papel, ya que estos algoritmos permiten analizan los datos de interacción y comportamiento de los usuarios para ofrecer una experiencia adaptada a sus intereses y preferencias. Por último, la variabilidad es otro aspecto destacado de Tik Tok. Los videos en la plataforma son cortos y se reproducen de forma continua en un bucle, lo que crea una experiencia audiovisual dinámica y cambiante, lo que ha dado lugar, a una cultura del **"inmediatismo"** en la que la inmediatez y la espontaneidad son muy valoradas. Además, la plataforma permite a los usuarios interactuar con el contenido a través de comentarios, likes y compartiendo los videos, lo que contribuye a la participación del público.
 

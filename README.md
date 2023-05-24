@@ -28,7 +28,9 @@ Grosso modo, según la citación anterior podemos considerar que la hibridación
 
 Centrándonos en la app de **TikTok**, la popular plataforma de redes sociales, es otro claro ejemplo destacado de hibridación de medios, gracias a su interfaz  y herramientas de edición para crear videos únicos y atractivos. Desde la perspectiva de Lev Manovich, Tik Tok puede ser considerada como una manifestación de la teoría de los nuevos medios debido a su combinación de varios principios fundamentales. 
 
-> Manovich sostiene que los medios digitales se basan en: **"la representación numérica**, también destaca la importancia de la **modularidad, la automatización, la variabilidad y la transcodificación"**. (Lev Manovich, 2013, El software toma el mando).
+> Lev Manovich en su libro [El Lenguaje de los Nuevos Medios](https://uea1arteycomunicacion.files.wordpress.com/2013/09/manovich-el-legunaje-de-los-nuevos-medios.pdf), argumenta que los nuevos medios, como el cine, la RV y las interfaces digitales, nos proporcionan una nueva forma de ver y experimentar el mundo. Al igual que usamos gafas para ver mejor o de manera diferente, los nuevos medios nos ofrecen un conjunto de gafas conceptuales que moldean nuestra percepción y comprensión del entorno digital. Estas **"gafas de Manovich"** influyen en cómo interpretamos los datos, interactuamos con la información y nos relacionamos con las tecnologías digitales en general. 
+> 
+> Manovich sostiene que los medios digitales se basan en: **"la representación numérica**, también destaca la importancia de la **modularidad, la automatización, la variabilidad y la transcodificación"**. (Lev Manovich, 2001, El Lenguaje de los Nuevos Medios).
 
 En el caso de Tik Tok, la plataforma utiliza algoritmos y tecnologías de compresión para codificar los videos en formato digital. Estos videos se almacenan en servidores y se distribuyen a través de la red. A su vez, también permite a los usuarios crear y editar videos de manera modular, combinando diferentes elementos como música, efectos visuales y fragmentos de otros videos. Esta capacidad de combinación modular es una característica clave de los nuevos medios digitales. 
 
@@ -71,7 +73,6 @@ Blender, por su parte, ha sido adoptado ampliamente en la industria del cine, la
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/maxresdefault.jpg)
 
 Resulta fascinante ver cómo la hibridación de medios ha influido en la evolución de la cultura digital. Estos dos ejemplos concretos muestran el poder de cómo la combinación de diferentes elementos y técnicas puede dar lugar a experiencias únicas y creativas. En mi opinión, estas herramientas han democratizado la creación y el acceso a contenidos multimedia, permitiendo que cualquier persona con una conexión a Internet pueda expresarse y compartir su creatividad. Además, han abierto nuevas posibilidades de interacción y participación del público, fomentando una cultura de colaboración y retroalimentación.
-
 
 
 ## 🔵 Referencias bibliográficas

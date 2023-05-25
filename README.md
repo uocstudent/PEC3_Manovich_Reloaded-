@@ -104,4 +104,5 @@ Resulta fascinante ver cómo la hibridación de medios ha influido en la evoluci
 
 -------------
 
+Licencia: [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 

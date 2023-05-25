@@ -71,7 +71,7 @@ Resulta fascinante ver cómo la hibridación de medios ha influido en la evoluci
 
 ### 📚 Libros:
 
-- Manovich, L. (2001). [El Lenguaje de los Nuevos Medios](https://uea1arteycomunicacion.files.wordpress.com/2013/09/manovich-el-legunaje-de-los-nuevos-medios.pdf) (PDF). Paidós Comunicación 163. 
+- Manovich, L. (2001). [El Lenguaje de los Nuevos Medios](https://uea1arteycomunicacion.files.wordpress.com/2013/09/manovich-el-legunaje-de-los-nuevos-medios.pdf). (PDF). Paidós Comunicación 163. 
 - Manovich, Lev. (2013). [El software toma el mando](https://ebookcentral.proquest.com/lib/bibliouocsp-ebooks/reader.action?docID=4735140). Barcelona: Editorial UOC.
 
 ### 👩‍💻 Páginas web:

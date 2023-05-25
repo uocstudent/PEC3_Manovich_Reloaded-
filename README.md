@@ -72,7 +72,7 @@ Resulta fascinante ver cómo la hibridación de medios ha influido en la evoluci
 ### 📚 Libros:
 
 - Manovich, L. (2001). The Language of New Media. MIT Press. 
-- Manovich, L. (2013). Software Takes Command. Bloomsbury Academic.
+- Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
 
 ### 👩‍💻 Páginas web:
 

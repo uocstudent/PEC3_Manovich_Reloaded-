@@ -86,17 +86,12 @@ Resulta fascinante ver cómo la hibridación de medios ha influido en la evoluci
 
 ### 📸 Imágenes
 
-1. https://tn.com.ar/resizer/Gjpc0VYJJS-jGoWTPtEREEr_hPY=/767x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/DDBQDSNPCZA4PD7TYRBZ6KGTKE.JPG
-
+1. https://www.freepik.es/foto-gratis/concepto-creador-contenido-estilo-vida_42087420.htm#query=tik%20tok&position=4&from_view=search&track=ais
 2. https://i.ytimg.com/vi/vrN9duEoA6g/maxresdefault.jpg
+3. https://www.washingtonpost.com/lifestyle/style/from-tiktok-smash-to-billboard-record-breaker-how-old-town-road-gamed-the-system-and-won-the-summer/2019/08/21/7d355fc8-bf66-11e9-a5c6-1e74f7ec4a93_story.html
+4. https://www.blender.org/download/releases/3-5/
 
-3. https://download.blender.org/branding/community/blender_community_badge_white.png
 
-4. https://kickstartsidehustle.com/wp-content/uploads/2020/07/6d6b1beb-a025-4244-a8a2-f01f6f8d755e.png
-
-5. https://www.blender.org/about/logo/
-
-6. https://www.blender.org/wp-content/uploads/2023/03/hair_style_demo_poster.jpg
 
 
 -------------

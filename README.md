@@ -41,7 +41,7 @@ Por otro lado, **Blender** es un software de diseño 3D de código abierto que h
 ###### Figura 2
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/hair_style_demo_poster.jpg)
-
+###### Imagen de <a href="https://www.blender.org/download/releases/3-5/">Blender</a>
 
 Finalmente, la transcodificación se evidencia en la capacidad de importar y exportar diferentes formatos de archivo y adaptarse a diferentes flujos de trabajo. Por ejemplo, se pueden importar imágenes y texturas desde programas de edición de imágenes, como **Adobe Photoshop, y luego combinarlas con modelos 3D en Blender. Del mismo modo, las animaciones creadas en Blender pueden exportarse a formatos utilizados en la industria del cine y los videojuegos, lo que permite su integración en proyectos más amplios.** Desde la perspectiva de Manovich, Blender representa una evolución de los metamedios computacionales. A través de la hibridación de la animación 3D y el diseño gráfico, ha logrado expandir las posibilidades creativas en la producción de contenidos visuales.
 

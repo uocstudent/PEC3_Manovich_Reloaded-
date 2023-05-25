@@ -76,10 +76,10 @@ Resulta fascinante ver cómo la hibridación de medios ha influido en la evoluci
 
 ### 👩‍💻 Páginas web:
 
--  "Blender on the History Channel at BlenderNation". [Blendernation.com](Blendernation.com). Retrieved May 12, 2023.
+-  "Blender on the History Channel at BlenderNation". [Blendernation.com](blendernation.com). Retrieved May 12, 2023.
 -  "Introduction — Blender Reference Manual" [www.blender.org](http://www.blender.org "www.blender.org"). Retrieved May 14, 2023.
 -  "Reference/Release Notes/2.92/Animation-Rigging - Blender Developer Wiki". [wiki.blender.org](wiki.blender.org). Retrieved May 12, 2023.
--  "rB60746363875a". [developer.blender.org. ](http://developer.blender.org.  "developer.blender.org. "). Retrieved 2021-11-04.  From the original on 27 January 2021. Retrieved May 15, 2023.
+-  "rB60746363875a". [developer.blender.org. ](http://developer.blender.org). Retrieved 2021-11-04.  From the original on 27 January 2021. Retrieved May 15, 2023.
 -  ["TikTok surpasses Google as the most popular website of the year, new data suggests"](https://www.nbcnews.com/tech/tech-news/tiktok-surpasses-google-popular-website-year-new-data-suggests-rcna9648). NBC News. 22 December 2021. Retrieved May 10, 2023.
 -  Lev Manovich official website: http://manovich.net/
 

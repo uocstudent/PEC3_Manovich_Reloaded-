@@ -100,3 +100,8 @@ Resulta fascinante ver cómo la hibridación de medios ha influido en la evoluci
 5. https://www.blender.org/about/logo/
 
 6. https://www.blender.org/wp-content/uploads/2023/03/hair_style_demo_poster.jpg
+
+
+-------------
+
+

@@ -27,13 +27,13 @@ Centrandonos en **TikTok**, es otro claro ejemplo destacado de hibridación, gra
 En este sentido, la plataforma también se relaciona con la metáfora de las "gafas" de Manovich al ofrecer a los usuarios una forma específica de ver y experimentar el contenido visual. Utiliza algoritmos para recomendar y personalizar el contenido y emplea tecnologías de compresión para codificar los videos en formato digital, almacenándolos en servidores y distribuyéndolos a través de la red. Además, permite a los usuarios crear y editar contenido de manera modular, combinando música y efectos visuales.
 
 
-##### Figura 1
+###### Figura 1
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20I.png)
                                                           
 La automatización también juega un gran papel, ya que estos algoritmos permiten analizan los datos de interacción y comportamiento de los usuarios para ofrecer una experiencia adaptada a sus intereses y preferencias. Por último, la variabilidad es otro aspecto destacado de Tik Tok. Los videos en la plataforma son cortos y se reproducen de forma continua en un bucle, lo que crea una experiencia audiovisual dinámica y cambiante, lo que ha dado lugar, a una cultura del **"inmediatismo"** en la que la inmediatez y la espontaneidad son muy valoradas. Además, la plataforma permite a los usuarios interactuar con el contenido a través de comentarios, likes y compartiendo los videos, lo que contribuye a la participación del público.
 
 
-##### Figura 2
+###### Figura 2
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20II.png)
 
 ------------

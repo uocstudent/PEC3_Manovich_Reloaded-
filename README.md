@@ -76,14 +76,13 @@ Resulta fascinante ver cómo la hibridación de medios ha influido en la evoluci
 
 ### 👩‍💻 Páginas web:
 
--  "Blender on the History Channel at BlenderNation". Blendernation.com. Retrieved May 12, 2023.
+-  "Blender on the History Channel at BlenderNation". [Blendernation.com](Blendernation.com). Retrieved May 12, 2023.
 -  "Introduction — Blender Reference Manual" [www.blender.org](http://www.blender.org "www.blender.org"). Retrieved May 14, 2023.
 -  Jaroš, Milan; Strakoš, Petr; Říha, Lubomír. "Rendering in Blender Cycles Using AVX-512 Vectorization" (PDF). Retrieved May 10, 2023.
--  "Reference/Release Notes/2.92/Animation-Rigging - Blender Developer Wiki". wiki.blender.org Retrieved May 12, 2023.
+-  "Reference/Release Notes/2.92/Animation-Rigging - Blender Developer Wiki". [wiki.blender.org](wiki.blender.org) Retrieved May 12, 2023.
 -  "rB60746363875a". [developer.blender.org. ](http://developer.blender.org.  "developer.blender.org. ")Retrieved 2021-11-04.  From the original on 27 January 2021. Retrieved May 15, 2023.
 -  "TikTok surpasses Google as the most popular website of the year, new data suggests". NBC News. 22 December 2021. Retrieved May 10, 2023.
 -  "The App That Launched a Thousand Memes | Sixth Tone". Sixth Tone. 20 February 2018. Archived from the original on 23 February 2018. Retrieved May 15, 2023.
--  Recursos UOC: https://campus.uoc.edu/
 -  Lev Manovich official website: http://manovich.net/
 
 

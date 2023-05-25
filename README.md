@@ -57,7 +57,7 @@ Tanto Tik Tok como Blender han dejado una huella significativa en la actualidad 
 
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20III.png)
 
-Otro caso relevante, es cómo **El Museo Nacional del Prado**,  también ha incursionado en TikTok para llegar a nuevas audiencias y promover su colección de arte. *— La noticia la podemos ver [aquí](http://https://www.museodelprado.es/actualidad/noticia/el-museo-nacional-del-prado-lidera-tiktok-en/4ab3949e-746f-db1d-2bc8-5a2ced140d24 "aquí")*. A través de su cuenta oficial en Tik Tok, el museo comparte vídeos creativos e informativos que muestran obras maestras de su colección, detrás de escenas de la preparación de exposiciones y desafíos relacionados con el arte. El museo ha utilizado TikTok como una forma de hacer que el arte sea accesible y atractivo para un público más joven y digitalmente activo. Los vídeos breves y entretenidos han ayudado a generar interés y curiosidad en la audiencia, al tiempo que promueven el conocimiento y la apreciación del arte, permitiendo conectarse con nuevas generaciones de amantes del arte, que quizás no hubieran tenido la oportunidad de visitar el museo físicamente. 
+Otro caso relevante, es cómo **El Museo Nacional del Prado**,  también ha incursionado en TikTok para llegar a nuevas audiencias y promover su colección de arte. *— El artículo lo podemos ver [aquí](http://https://www.museodelprado.es/actualidad/noticia/el-museo-nacional-del-prado-lidera-tiktok-en/4ab3949e-746f-db1d-2bc8-5a2ced140d24 "aquí")*. A través de su cuenta oficial en Tik Tok, el museo comparte vídeos creativos e informativos que muestran obras maestras de su colección, detrás de escenas de la preparación de exposiciones y desafíos relacionados con el arte. El museo ha utilizado TikTok como una forma de hacer que el arte sea accesible y atractivo para un público más joven y digitalmente activo. Los vídeos breves y entretenidos han ayudado a generar interés y curiosidad en la audiencia, al tiempo que promueven el conocimiento y la apreciación del arte, permitiendo conectarse con nuevas generaciones de amantes del arte, que quizás no hubieran tenido la oportunidad de visitar el museo físicamente. 
 
 Blender, por su parte, ha sido adoptado ampliamente en la industria del cine, la animación y los videojuegos. Ha demostrado ser una herramienta poderosa y accesible para la creación de contenido visual de alta calidad. Aunque a pesar de ello, sigue compitiendo con softwares como **After Effects, Houdini y Maya**.
 
@@ -71,7 +71,7 @@ Resulta fascinante ver cómo la hibridación de medios ha influido en la evoluci
 
 ### 📚 Libros:
 
-- Manovich, L. (2001). [El Lenguaje de los Nuevos Medios](https://uea1arteycomunicacion.files.wordpress.com/2013/09/manovich-el-legunaje-de-los-nuevos-medios.pdf). MIT Press. 
+- Manovich, L. (2001). [El Lenguaje de los Nuevos Medios](https://uea1arteycomunicacion.files.wordpress.com/2013/09/manovich-el-legunaje-de-los-nuevos-medios.pdf) (PDF). Paidós Comunicación 163. 
 - Manovich, Lev. (2013). [El software toma el mando](https://ebookcentral.proquest.com/lib/bibliouocsp-ebooks/reader.action?docID=4735140). Barcelona: Editorial UOC.
 
 ### 👩‍💻 Páginas web:

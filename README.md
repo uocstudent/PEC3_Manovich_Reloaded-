@@ -29,7 +29,7 @@ En este sentido, la plataforma también se relaciona con la metáfora de las "ga
 
 ###### Figura 1
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20I.png)
-###### [Photography](https://newsroom.tiktok.com/es-latam/nuevas-herramientas-de-edicion) by TikTok 2022
+###### [Photography](https://newsroom.tiktok.com/es-latam/nuevas-herramientas-de-edicion) by TikTok, Released in 2022.
 
 La automatización también juega un gran papel, ya que estos algoritmos permiten analizan los datos de interacción y comportamiento de los usuarios para ofrecer una experiencia adaptada a sus intereses y preferencias. Por último, la variabilidad es otro aspecto destacado de Tik Tok. Los videos en la plataforma son cortos y se reproducen de forma continua en un bucle, lo que crea una experiencia audiovisual dinámica y cambiante, lo que ha dado lugar, a una cultura del **"inmediatismo"** en la que la inmediatez y la espontaneidad son muy valoradas. Además, la plataforma permite a los usuarios interactuar con el contenido a través de comentarios, likes y compartiendo los videos, lo que contribuye a la participación del público.
 

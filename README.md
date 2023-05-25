@@ -53,6 +53,8 @@ Tanto Tik Tok como Blender han dejado una huella significativa en la actualidad 
 
 ###### Figura 3
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20III.png)
+###### Lil Nas X has released official remixes of “Old Town Road” with RM of K-pop phenom BTS; EDM producer Diplo; country singer Billy Ray Cyrus; rapper Young Thug and viral yodeler Mason Ramsey. [(Noa Denmon for The Washington Post)](https://www.washingtonpost.com/lifestyle/style/from-tiktok-smash-to-billboard-record-breaker-how-old-town-road-gamed-the-system-and-won-the-summer/2019/08/21/7d355fc8-bf66-11e9-a5c6-1e74f7ec4a93_story.html)
+
 
 Otro caso relevante, es cómo **El Museo Nacional del Prado**,  también ha incursionado en TikTok para llegar a nuevas audiencias y promover su colección de arte. — El artículo lo podemos ver [**aquí**](https://www.museodelprado.es/actualidad/noticia/el-museo-nacional-del-prado-lidera-tiktok-en/4ab3949e-746f-db1d-2bc8-5a2ced140d24). A través de su cuenta oficial en Tik Tok, el museo comparte vídeos creativos e informativos que muestran obras maestras de su colección, detrás de escenas de la preparación de exposiciones y desafíos relacionados con el arte. El museo ha utilizado TikTok como una forma de hacer que el arte sea accesible y atractivo para un público más joven y digitalmente activo. Los vídeos breves y entretenidos han ayudado a generar interés y curiosidad en la audiencia, al tiempo que promueven el conocimiento y la apreciación del arte, permitiendo conectarse con nuevas generaciones de amantes del arte, que quizás no hubieran tenido la oportunidad de visitar el museo físicamente. 
 

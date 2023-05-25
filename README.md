@@ -36,7 +36,7 @@ La automatización también juega un gran papel, ya que estos algoritmos permite
 
 ###### Figura 2
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/TIK%20TOK%20II.png)
-
+Imagen de <a href="https://www.freepik.es/foto-gratis/concepto-creador-contenido-estilo-vida_42087420.htm#query=tik%20tok&position=4&from_view=search&track=ais">Freepik</a>
 ------------
 
 ## 2️⃣ Blender:  Viaje a la democratización

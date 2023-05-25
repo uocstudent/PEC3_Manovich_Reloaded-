@@ -83,17 +83,6 @@ Resulta fascinante ver cómo la hibridación de medios ha influido en la evoluci
 -  ["TikTok surpasses Google as the most popular website of the year, new data suggests"](https://www.nbcnews.com/tech/tech-news/tiktok-surpasses-google-popular-website-year-new-data-suggests-rcna9648). NBC News. 22 December 2021. Retrieved May 10, 2023.
 -  Lev Manovich official website: [www.manovich.net](http://manovich.net/)
 
-
-### 📸 Imágenes
-
-1. https://www.freepik.es/foto-gratis/concepto-creador-contenido-estilo-vida_42087420.htm#query=tik%20tok&position=4&from_view=search&track=ais
-2. https://i.ytimg.com/vi/vrN9duEoA6g/maxresdefault.jpg
-3. https://www.washingtonpost.com/lifestyle/style/from-tiktok-smash-to-billboard-record-breaker-how-old-town-road-gamed-the-system-and-won-the-summer/2019/08/21/7d355fc8-bf66-11e9-a5c6-1e74f7ec4a93_story.html
-4. https://www.blender.org/download/releases/3-5/
-
-
-
-
 -------------
 
 Licencia: [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)

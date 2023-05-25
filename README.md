@@ -60,6 +60,7 @@ Blender, por su parte, ha sido adoptado ampliamente en la industria del cine, la
 
 ###### Figura 4
 ![](https://github.com/uocstudent/PEC3_Manovich_Reloaded-/blob/main/maxresdefault.jpg)
+###### Imagen de <a href="https://www.freepik.es/foto-gratis/concepto-creador-contenido-estilo-vida_42087420.htm#query=tik%20tok&position=4&from_view=search&track=ais">Blender - Education Portal</a>
 
 Resulta fascinante ver cómo la hibridación de medios ha influido en la evolución de la cultura digital. Estos dos ejemplos concretos muestran el poder de cómo la combinación de diferentes elementos y técnicas puede dar lugar a experiencias únicas y creativas. En mi opinión, estas herramientas han democratizado la creación y el acceso a contenidos multimedia, permitiendo que cualquier persona con una conexión a Internet pueda expresarse y compartir su creatividad. Además, han abierto nuevas posibilidades de interacción y participación del público, fomentando una cultura de colaboración y retroalimentación.
 
